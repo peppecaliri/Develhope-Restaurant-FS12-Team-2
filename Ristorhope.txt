@@ -1,0 +1,10 @@
+RISTORHOPE (si accettano consigli per cambiarlo)
+
+Per questo esercizio ho scelto un menú di pesce.
+
+~ • Drinks
+
+-Acqua Naturale/Frizzante
+-Soft Drinks (Coca-Cola, Fanta, Limonata, Chinotto) 
+-White wine (Pinot Grigio, Sauvignon Blanc, Chardonnay)
+-Beers(Peroni, Moretti, Heineken, Stella Artois, BrewDog Punk IPA
