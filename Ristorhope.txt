@@ -28,3 +28,9 @@ PRIMI PIATTI
 -Soft Drinks (Coca-Cola, Fanta, Limonata, Chinotto) 
 -White wine (Pinot Grigio, Sauvignon Blanc, Chardonnay)
 -Beers(Peroni, Moretti, Heineken, Stella Artois, BrewDog Punk IPA
+
+~ • Dessert
+
+Cakes(Chocolate, Dark Chocolate, Red Velvet, Berrie, Banana&Caramel)
+Cheescake(Chocolate, Nutella, Caramel, Berries, Strawberry)
+Ice Cream(Chocolate, Caramel, Banana, Strawberry)
