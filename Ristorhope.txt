@@ -3,10 +3,15 @@ RISTORHOPE (si accettano consigli per cambiarlo)
 Per questo esercizio ho scelto un menú di pesce.
 
 PRIMI PIATTI
-Linguine allo scoglio
-Spaghetti ai ricci di mare
-Tagliatelle all'astice
-Spaghetti alle vongole veraci
+-Linguine allo scoglio
+(gamberi, calamari, cozze, seppie)
+-Spaghetti ai ricci di mare
+(ricci, olio e prezzemolo)
+-Tagliatelle all'astice
+(tagliatelle fatte in casa con astice blu)
+-Spaghetti alle vongole
+(vongole veraci, olio evo, prezzemolo)
+
 
 ~ • Drinks
 
